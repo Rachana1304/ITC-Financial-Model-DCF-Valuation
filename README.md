@@ -1,3 +1,13 @@
+| Attribute         | Details                                    |
+| ----------------- | ------------------------------------------ |
+| Company           | ITC Ltd.                                   |
+| Industry          | FMCG                                       |
+| Historical Period | FY2021–FY2025                              |
+| Forecast Period   | FY2026–FY2032                              |
+| Valuation Method  | Discounted Cash Flow (DCF)                 |
+| Tool              | Microsoft Excel                            |
+| Model Type        | Integrated Three-Statement Financial Model |
+
 Project Title
 Integrated Financial Model & DCF Valuation – ITC Ltd
 Project Summary
